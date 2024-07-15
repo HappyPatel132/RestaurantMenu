@@ -2,7 +2,7 @@
  
 This is a simple Android application that displays a menu for different cuisines. Users can select a cuisine from a dropdown and view the corresponding menu items.
 
-##Features
+## Features
 ### Select different cuisines from a dropdown.
 ### View the menu items for the selected cuisine.
 ### Each menu item displays a photo, name, price, and description.
