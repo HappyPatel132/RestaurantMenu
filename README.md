@@ -22,6 +22,9 @@ This is a simple Android application that displays a menu for different cuisines
 ![Screenshot_20240715_164909](https://github.com/user-attachments/assets/e7fc0107-1e80-4e2b-b8bd-8acf1a79509d)
 
 
+## Happy Patel
+## 1215106
+
 
 
 
