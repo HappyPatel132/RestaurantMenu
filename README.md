@@ -15,7 +15,7 @@ This is a simple Android application that displays a menu for different cuisines
 ### MenuItem: A data class representing a menu item.
 ### Layouts: XML files defining the UI components.
 
-#UI
+# UI
 ![Screenshot_20240715_164923](https://github.com/user-attachments/assets/1e99d8dc-58c1-452e-9128-36060a389c73)
 ![Screenshot_20240715_164806](https://github.com/user-attachments/assets/ecc1d78a-7dfc-491f-a65a-72470ea79e37)
 ![Screenshot_20240715_164857](https://github.com/user-attachments/assets/5dfd0855-381b-4501-8dd1-81624ecbbab0)
